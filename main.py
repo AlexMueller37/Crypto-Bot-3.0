@@ -14,8 +14,8 @@ in_position = False
 
 TRADE_QUANTITY = 1
 
-API_KEY = 'PKEACEMDMC69HGLPAKU0'
-SECRET_KEY = 'SdWuBij5goM1FacHxGBVZPgfObz3X4lg2n0F5Evl'
+API_KEY = '########################'
+SECRET_KEY = '###################################'
 
 macds = [0]
 macdsignals = [0]
